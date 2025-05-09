@@ -22,6 +22,9 @@ globals:
 
 description: Drupal is an open-source content management platform that enables users to create and manage various websites and web applications.
 
+ssl: true
+skipNodeEmails: true
+
 nodes:
 - cloudlets: 16
   nodeType: apache2
